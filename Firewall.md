@@ -127,3 +127,8 @@ Choosing the right type of firewall depends on your specific needs:
 
 For the strongest protection, a combination of both is recommended, ensuring a **layered defense** against cyber threats in both personal and professional settings.
 
+
+[Watch this video on YouTube](https://youtu.be/KZc1KaE1OKU?si=pAzmx7swYYcd5YOk)
+[Watch this video on YouTube](https://youtu.be/KZc1KaE1OKU?si=pAzmx7swYYcd5YOk)
+[Watch this video on YouTube](https://youtu.be/KZc1KaE1OKU?si=pAzmx7swYYcd5YOk)
+[Watch this video on YouTube](https://youtu.be/KZc1KaE1OKU?si=pAzmx7swYYcd5YOk)
