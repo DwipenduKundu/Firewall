@@ -4,7 +4,7 @@
 
 A **firewall** is either a software application or a dedicated hardware device that acts as a barrier between a trusted internal network and an untrusted external network, such as the internet. Its primary role is to screen out unauthorized access attempts, including those from hackers, viruses, and worms.
 
-Firewalls regulate the flow of data between networks of varying trust levels—such as your highly trusted home network and the untrusted internet—to ensure that only legitimate traffic is allowed.
+Firewalls regulate the flow of data between networks of varying trust levels, such as your highly trusted home network and the untrusted internet, to ensure that only legitimate traffic is allowed.
 
 ## Software vs Hardware Firewalls
 
@@ -17,7 +17,7 @@ Firewalls regulate the flow of data between networks of varying trust levels—s
 
 ### Hardware Firewall
 
-* A physical device that connects between your local network and the internet.
+* A physical device that connects your local network and the internet.
 * Provides centralized protection for all devices in the network.
 * Essential when multiple devices are connected to the same network.
 
@@ -31,7 +31,7 @@ Firewalls regulate the flow of data between networks of varying trust levels—s
 
 Disabling the firewall removes this protection and leaves your system vulnerable. A common reminder:
 
-> "Today you might be a billionaire, but without protection, tomorrow you could be a beggar. Never turn your firewall off."
+> "Today, you might be a billionaire, but without protection, tomorrow you could be a beggar. Never turn your firewall off."
 
 ## How Firewalls Work: Real-World Example
 
@@ -95,7 +95,7 @@ Breaking down data improves reliability and speed, making firewalls' role in ins
 
 **How it works:**
 
-* Filters based on IP and port (like packet-filtering).
+* Filters based on IP and port (like packet filtering).
 * Tracks active sessions (stateful inspection).
 * Examines data at the application level (like a proxy).
 * May also include IDS/IPS and VPN capabilities.
@@ -107,7 +107,7 @@ Breaking down data improves reliability and speed, making firewalls' role in ins
 * May impact system performance.
 * Only protect the host device.
 * Can be disabled by malware or user error.
-* Require technical knowledge to configure properly.
+* Requires technical knowledge to configure properly.
 * Less suitable for large networks.
 
 ### Hardware Firewalls
