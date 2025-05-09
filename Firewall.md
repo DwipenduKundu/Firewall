@@ -70,8 +70,8 @@ Breaking down data improves reliability and speed, making firewalls' role in ins
 
 **How it works:**
 
-* ✅ Allows packets that match approved criteria.
-* ❌ Blocks those that don’t.
+* Allows packets that match approved criteria.
+* Blocks those that don’t.
 
 ### 2. Proxy Firewall (Application-Level Gateway)
 
