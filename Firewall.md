@@ -129,7 +129,11 @@ For the strongest protection, a combination of both is recommended, ensuring a *
 
 # References:
 [Reference-1 video on YouTube](https://youtu.be/eO6QKDL3p1I?si=pOHRZG9f6H4o-FK0)
+
 [Reference-2 video on YouTube](https://youtu.be/KZc1KaE1OKU?si=9Y6WMyiHmVDUyYhf)
+
 [Reference-3 video on YouTube](https://youtu.be/aUPoA3MSajU?si=ImoL7K8_93ukGf8s)
+
 [Reference-4 video on YouTube](https://youtu.be/Xj654WUdDFE?si=hFgJUEnqA-uVtbXa)
+
 [Reference-5 video on YouTube](https://youtu.be/fCM86XAyQ7o?si=JgRDCW7hm1egfq5S)
